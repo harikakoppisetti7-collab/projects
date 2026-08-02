@@ -1,1 +1,33 @@
+# EDA Summary Report
+
+## Data Cleaning
+
+* Checked missing values
+* Removed duplicate records
+* Treated outliers
+
+## Statistical Analysis
+
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
+
+## Analysis
+
+* Survival analysis
+* Age, gender, and passenger class analysis
+* Grouped data using `groupby()`
+
+## Key Findings
+
+* Survival rates varied by passenger class.
+* Female passengers had higher survival rates than males.
+* Younger passengers showed different survival patterns.
+* Outliers were identified and handled.
+
+## Conclusion
+
+EDA helped identify key factors influencing passenger survival and provided meaningful insights through data analysis and visualization.
 
