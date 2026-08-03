@@ -1,36 +1,60 @@
-#  Retail Sales Analysis Dashboard
+# Student Performance Analysis
 
-##  Objective
+## Objective
 
-Analyze retail sales data using Python and EDA techniques to identify sales trends and patterns.
+Analyze student performance data using Python and Exploratory Data Analysis (EDA) techniques to identify factors affecting academic performance.
 
-##  Dataset
+## Dataset
 
-**Superstore Sales Dataset**
+**Student Performance Dataset**
 
-##  Tools Used
+## Tools Used
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
 
-##  Project Workflow
+## Project Workflow
 
 * Data Cleaning
+* Handling Missing Values
+* Removing Duplicates
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
-* Sales & Profit Analysis
+* Correlation Analysis
 * Data Visualization
 
-##  Files Included
+## Analysis Performed
 
-* Jupyter Notebook
-* Dataset
-* EDA Report
-* Screenshots
+* Loaded and explored the dataset
+* Checked data types and missing values
+* Removed duplicate records
+* Generated descriptive statistics
+* Calculated mean, median, mode, variance, and standard deviation
+* Identified and treated outliers
+* Analyzed relationships between features
+* Created visualizations:
+  * Bar Chart
+  * Line Chart
+  * Histogram
+  * Scatter Plot
 
-##  Author
+## Key Insights
+
+* Identified factors influencing student performance.
+* Compared performance across different categories.
+* Observed score distributions and trends.
+* Found correlations between study-related variables and final scores.
+
+## Files Included
+
+* Jupyter Notebook (`.ipynb`)
+* Dataset (`.csv`)
+* EDA Summary Report
+* Screenshots of Visualizations
+* README.md
+
+## Author
 
 **Harika**
-
